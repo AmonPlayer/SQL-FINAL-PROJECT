@@ -1,1 +1,3 @@
-# SQL-FINAL-PROJECT
+The purpose of this analysis was to understand how Airbnb listings in New York City differ by location, price, availability, and host activity. One clear pattern was that Manhattan has the highest average prices, showing that location strongly affects pricing. I also noticed that a small number of hosts manage many listings, while most hosts only have one or two.
+An unexpected finding was that many listings have an availability of 365 days, which made it harder to identify demand. To address this, I focused on listings with lower availability, which better highlighted which properties are more in demand.
+Overall, the results helped answer my original questions about pricing differences, host behavior, and availability across neighborhoods, turning the dataset into useful insights.
